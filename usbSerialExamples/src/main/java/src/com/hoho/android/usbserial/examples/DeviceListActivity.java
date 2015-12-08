@@ -46,7 +46,6 @@ import com.hoho.android.usbserial.driver.UsbSerialPort;
 import com.hoho.android.usbserial.driver.UsbSerialProber;
 import com.hoho.android.usbserial.util.HexDump;
 
-
 import java.util.ArrayList;
 import java.util.List;
 
