@@ -23,4 +23,4 @@
        android:id="@+id/tooltip"
        android:textAppearance="?android:attr/textAppearanceLarge" />
     
-</RelativeLayout><!-- From: file:/C:/Users/Notebook2/Desktop/spydroid-ipcamera-master/Spydroid/src/main/res/layout/preview.xml -->
+</RelativeLayout><!-- From: file:/Users/choimunsuk/Downloads/Project/Spydroid/src/main/res/layout/preview.xml -->

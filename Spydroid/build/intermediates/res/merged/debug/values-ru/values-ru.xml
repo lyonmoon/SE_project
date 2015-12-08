@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/C:/Users/Notebook2/Desktop/spydroid-ipcamera-master/Spydroid/src/main/res/values-ru/strings.xml -->
+    <!-- From: file:/Users/choimunsuk/Downloads/Project/Spydroid/src/main/res/values-ru/strings.xml -->
     <eat-comment/>
     <string name="about0">Spydroid это веселое приложение с открытым исходным кодом!</string>
     <string name="about1">Если вам не понятно, как пользоваться данным приложением, вам поможет официальная страница проекта, она находится здесь. К примеру, на ней содержиться ценная информация, как проиграть поток прямо из VLC</string>

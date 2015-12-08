@@ -6,4 +6,4 @@
     <item android:id="@+id/quit"
           android:icon="@drawable/quit"
           android:title="@string/quit" />
-</menu><!-- From: file:/C:/Users/Notebook2/Desktop/spydroid-ipcamera-master/Spydroid/src/main/res/menu/menu.xml -->
+</menu><!-- From: file:/Users/choimunsuk/Downloads/Project/Spydroid/src/main/res/menu/menu.xml -->

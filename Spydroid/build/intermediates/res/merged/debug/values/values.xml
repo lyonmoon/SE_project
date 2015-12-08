@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/C:/Users/Notebook2/Desktop/spydroid-ipcamera-master/Spydroid/src/main/res/values/arrays.xml -->
+    <!-- From: file:/Users/choimunsuk/Downloads/Project/Spydroid/src/main/res/values/arrays.xml -->
     <eat-comment/>
     <string-array name="audioEncoderArray">
         <item>AMR-NB</item>
@@ -60,7 +60,7 @@
         <item>320x240</item>
         <item>176x144</item>
     </string-array>
-    <!-- From: file:/C:/Users/Notebook2/Desktop/spydroid-ipcamera-master/Spydroid/src/main/res/values/strings.xml -->
+    <!-- From: file:/Users/choimunsuk/Downloads/Project/Spydroid/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="about0">Spydroid is a fun and open source application !</string>
     <string name="about1">If you don\'t understand how to use it, the google page of the project contains a FAQ. For example, you will find explanations on how to play the stream in VLC</string>
