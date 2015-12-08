@@ -2,53 +2,53 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\Notebook2\Desktop\spydroid-ipcamera-master\Spydroid\libs\android-support-v4.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="4a6be13368bb64c5a0b0460632d228a1a915f58f">
-        <dex dex="C:\Users\Notebook2\Desktop\spydroid-ipcamera-master\Spydroid\build\intermediates\pre-dexed\debug\android-support-v4-1f82230d7f5e6c0fa12a9d61030ac28865635164.jar" />
-    </item>
-    <item
-        jar="C:\Users\Notebook2\Desktop\spydroid-ipcamera-master\Spydroid\libs\sc-light-jdk15on-1.47.0.2.jar"
+        jar="/Users/choimunsuk/Downloads/Project/Spydroid/libs/sc-light-jdk15on-1.47.0.2.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="d5c98671cc97fa0d928be1c7eb5edd3fb95d3234">
-        <dex dex="C:\Users\Notebook2\Desktop\spydroid-ipcamera-master\Spydroid\build\intermediates\pre-dexed\debug\sc-light-jdk15on-1.47.0.2-58dcc0b4e6cef8a588fe4e1ea1b14a9f974e2e0d.jar" />
+        <dex dex="/Users/choimunsuk/Downloads/Project/Spydroid/build/intermediates/pre-dexed/debug/sc-light-jdk15on-1.47.0.2-f914a9c1d53c5b6f48f015890964cdff9f571e11.jar" />
     </item>
     <item
-        jar="C:\Users\Notebook2\Desktop\spydroid-ipcamera-master\Spydroid\libs\scprov-jdk15on-1.47.0.2.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="1e2f52dbf7402b12b792282078b9f895512ae5af">
-        <dex dex="C:\Users\Notebook2\Desktop\spydroid-ipcamera-master\Spydroid\build\intermediates\pre-dexed\debug\scprov-jdk15on-1.47.0.2-d1c96cf65589e789c153e627c0bc608b60a3bd78.jar" />
-    </item>
-    <item
-        jar="C:\Users\Notebook2\Desktop\spydroid-ipcamera-master\Spydroid\libs\GoogleAdMobAdsSdk-6.1.0.jar"
+        jar="/Users/choimunsuk/Downloads/Project/Spydroid/libs/GoogleAdMobAdsSdk-6.1.0.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="0d7313ca1a34c9ce2de798006511a4b6bc26b90b">
-        <dex dex="C:\Users\Notebook2\Desktop\spydroid-ipcamera-master\Spydroid\build\intermediates\pre-dexed\debug\GoogleAdMobAdsSdk-6.1.0-f3458ba5524569e1e0dd6de9ecd18536d6b4b1c5.jar" />
+        <dex dex="/Users/choimunsuk/Downloads/Project/Spydroid/build/intermediates/pre-dexed/debug/GoogleAdMobAdsSdk-6.1.0-dc73262b4057380b63a3e71843e70da1c279556d.jar" />
     </item>
     <item
-        jar="C:\Users\Notebook2\Desktop\spydroid-ipcamera-master\Spydroid\libs\gcm.jar"
+        jar="/Users/choimunsuk/Downloads/Project/Spydroid/libs/gcm.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="a6d7bce795a14c7f86111756c4ceb44b79de14aa">
-        <dex dex="C:\Users\Notebook2\Desktop\spydroid-ipcamera-master\Spydroid\build\intermediates\pre-dexed\debug\gcm-d9b52ebf29843912b66e93793e2b92df79f81f45.jar" />
+        <dex dex="/Users/choimunsuk/Downloads/Project/Spydroid/build/intermediates/pre-dexed/debug/gcm-c7ed7fdd04de551b44dd8d971e60025e8920179d.jar" />
     </item>
     <item
-        jar="C:\Users\Notebook2\Desktop\spydroid-ipcamera-master\Spydroid\libs\scpkix-jdk15on-1.47.0.2.jar"
+        jar="/Users/choimunsuk/Downloads/Project/Spydroid/libs/scprov-jdk15on-1.47.0.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1e2f52dbf7402b12b792282078b9f895512ae5af">
+        <dex dex="/Users/choimunsuk/Downloads/Project/Spydroid/build/intermediates/pre-dexed/debug/scprov-jdk15on-1.47.0.2-bbfd3966b60cd8ed321d7d4db509d92612d268e6.jar" />
+    </item>
+    <item
+        jar="/Users/choimunsuk/Downloads/Project/Spydroid/libs/scpkix-jdk15on-1.47.0.2.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="6bed9af945c158e1e02dfbdf030179dd18e60d83">
-        <dex dex="C:\Users\Notebook2\Desktop\spydroid-ipcamera-master\Spydroid\build\intermediates\pre-dexed\debug\scpkix-jdk15on-1.47.0.2-060ca57714bfb15550182b6a547ca58bf1e78549.jar" />
+        <dex dex="/Users/choimunsuk/Downloads/Project/Spydroid/build/intermediates/pre-dexed/debug/scpkix-jdk15on-1.47.0.2-3c2a6bf6a93064316e876fe2909875f16873ae10.jar" />
     </item>
     <item
-        jar="C:\Users\Notebook2\Desktop\spydroid-ipcamera-master\Spydroid\libs\acra-4.4.0.jar"
+        jar="/Users/choimunsuk/Downloads/Project/Spydroid/libs/acra-4.4.0.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="7864f0ac6c74d84e465aa5449fa14408b0a1418f">
-        <dex dex="C:\Users\Notebook2\Desktop\spydroid-ipcamera-master\Spydroid\build\intermediates\pre-dexed\debug\acra-4.4.0-a73164e8a15715d436041130a7d7e242d759817f.jar" />
+        <dex dex="/Users/choimunsuk/Downloads/Project/Spydroid/build/intermediates/pre-dexed/debug/acra-4.4.0-345a4a6bc0e01243d9572d26270d9a315e00d427.jar" />
+    </item>
+    <item
+        jar="/Users/choimunsuk/Downloads/Project/Spydroid/libs/android-support-v4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4a6be13368bb64c5a0b0460632d228a1a915f58f">
+        <dex dex="/Users/choimunsuk/Downloads/Project/Spydroid/build/intermediates/pre-dexed/debug/android-support-v4-aa11bc257a693241a83cf67c83ac6b1626ec9b3d.jar" />
     </item>
 
 </items>
